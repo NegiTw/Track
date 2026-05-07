@@ -32,7 +32,7 @@ local tradeLists = {
         {"Dismantle Fang", 999999},
         {"Reiatsu Core", 999999},
         {"Atomic Core", 999999},
-        {"Ice Core", 999999,
+        {"Ice Core", 999999},
         {"Frozen Brand", 999999},
         {"Glacier Remnant", 999999},
         {"Battle Shard", 999999},
